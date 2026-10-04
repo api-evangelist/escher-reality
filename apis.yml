@@ -48,7 +48,7 @@ modified: '2026-09-15'
 tags:
 - Company
 - Augmented Reality
-- Computer-Vision
+- Computer Vision
 - Mobile
 - Gaming
 - SDK
@@ -63,6 +63,7 @@ tags_raw:
 - SDK
 - Acquired
 - Defunct
+- Computer-Vision
 apis: []
 maintainers:
 - FN: Kin Lane
