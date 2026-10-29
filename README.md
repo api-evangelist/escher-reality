@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Escher Reality is a company surfaced as a portfolio company of uncork-capital and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: uncork-capital
+Escher Reality was an augmented reality and computer vision startup founded in 2016 by Ross Finman (CEO) and Diana Hu (CTO), with roots in the MIT Sandbox program. It built cloud backend services for cross-platform, persistent, multi-user mobile AR — shared experiences that neither Apple ARKit nor Google ARCore offered at the time — letting multiple users interact with the same virtual objects anchored to the real world. The company raised roughly $3 million and was based in Sunnyvale, California. In February 2018 Escher Reality was acquired by Niantic (creator of Pokemon GO); its team and technology were folded into the Niantic Real World Platform (now Lightship), and the standalone company and its developer/SDK offering were discontinued. This API Evangelist profile is retained as a historical record; there is no independent, active API or developer surface to enrich.
+
+**Areas:** Company · Augmented Reality · Computer Vision · Mobile · Gaming · SDK · Acquired · Defunct
+
+## Escher Reality on APIs.io (historical record)
+
+Everything profiled for Escher Reality is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/escher-reality/](https://apis.io/providers/escher-reality/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Escher Reality: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/escher-reality/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
